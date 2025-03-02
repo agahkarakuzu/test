@@ -2,11 +2,11 @@
    "datset1": {
       "src": "https://osf.io/54vhx",
       "dst": "../data",
-      "projectName": "agahTest-download"
+      "projectName": "agah_test-download"
    },
    "datset2": {
       "src": "https://osf.io/kpb7x",
       "dst": "../data",
-      "projectName": "agahTest-download/aaa"
+      "projectName": "agah_test-download"
    }
 }

@@ -1,4 +1,12 @@
-{ "src": "https://drive.google.com/uc?id=1hOohYO0ifFD-sKN_KPPXOgdQpNQaThiJ",
-  "dst": "../data",
-  "projectName": "agah-test-download"
-}
+{
+   "datset1": {
+      "src": "https://osf.io/54vhx",
+      "dst": "../data",
+      "projectName": "agah-test-download"
+   },
+   "datset2": {
+      "src": "https://osf.io/kpb7x",
+      "dst": "../data",
+      "projectName": "agah-test-download/aaa"
+   }
+ }

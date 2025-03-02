@@ -1,4 +1,4 @@
-[
+{
    "datset1": {
       "src": "https://osf.io/54vhx",
       "dst": "../data",
@@ -9,4 +9,4 @@
       "dst": "../data",
       "projectName": "agahTest-download/aaa"
    }
-]
+}
